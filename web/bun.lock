@@ -92,7 +92,7 @@
         "@testing-library/jest-dom": "^6.9.1",
         "@testing-library/react": "^16.3.0",
         "@testing-library/user-event": "^14.6.1",
-        "@types/chrome": "^0.0.287",
+        "@types/chrome": "^0.2.5",
         "@types/hast": "^3.0.4",
         "@types/jest": "^30.0.0",
         "@types/js-cookie": "^3.0.6",
@@ -1025,7 +1025,7 @@
 
     "@types/chai": ["@types/chai@5.2.3", "", { "dependencies": { "@types/deep-eql": "*", "assertion-error": "^2.0.1" } }, "sha512-Mw558oeA9fFbv65/y4mHtXDs9bPnFMZAL/jxdPFUpOHHIXX91mcgEHbS5Lahr+pwZFR8A7GQleRWeI6cGFC2UA=="],
 
-    "@types/chrome": ["@types/chrome@0.0.287", "", { "dependencies": { "@types/filesystem": "*", "@types/har-format": "*" } }, "sha512-wWhBNPNXZHwycHKNYnexUcpSbrihVZu++0rdp6GEk5ZgAglenLx+RwdEouh6FrHS0XQiOxSd62yaujM1OoQlZQ=="],
+    "@types/chrome": ["@types/chrome@0.2.5", "", { "dependencies": { "@types/filesystem": "*", "@types/har-format": "*" } }, "sha512-DwLFgwj3D0zjxRBhQ3610RBso2g+yI1cakq/JdIGopZ9Bc5UhQluyfcLGZwivFE4t2h4b2QZYZhPV7KylExSbA=="],
 
     "@types/d3-array": ["@types/d3-array@3.2.2", "", {}, "sha512-hOLWVbm7uRza0BYXpIIW5pxfrKe0W+D5lrFiAEYR+pb6w3N2SwSMaJbXdUfSEv+dT4MfHBLtn5js0LAWaO6otw=="],
 
